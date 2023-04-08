@@ -1,0 +1,14 @@
+characters = {
+	POL_dmowski = {
+		name = "Roman Dmowski"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POL/Portrait_POL_Roman_Dmowski.png"
+			}
+		}
+		country_leader = {
+			ideology = DS_VARIANT_08
+			expire = "1965.1.1.1"
+		}
+	}
+}
