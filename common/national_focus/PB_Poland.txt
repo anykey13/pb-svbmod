@@ -1,0 +1,172 @@
+focus_tree = {
+	id = POLSKA_FOCUS_KURWAAAA
+	country = {
+		base = 0
+		modifier = {
+			add = 2137
+			tag = POL
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 2137 y = 2137 }
+
+	focus = {
+		id = PB_POL_empires_industrial_heart
+		icon = GFX_PB_POL_empires_industrial_heart
+		x = 6
+		y = 0
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_people_over_automats
+		icon = GFX_PB_POL_people_over_automats
+		relative_position_id = PB_POL_empires_industrial_heart
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_empires_industrial_heart
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_the_great_middle
+		icon = GFX_PB_POL_the_great_middle
+		relative_position_id = PB_POL_empires_industrial_heart
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_empires_industrial_heart
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_only_within_the_empire
+		icon = GFX_PB_POL_only_within_the_empire
+		relative_position_id = PB_POL_empires_industrial_heart
+		x = 2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_empires_industrial_heart
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_favorable_terms_for_us
+		icon = GFX_PB_POL_favorable_terms_for_us
+		relative_position_id = PB_POL_the_great_middle
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_the_great_middle
+		}
+		prerequisite = {
+			focus = PB_POL_people_over_automats
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_favorable_terms_for_them
+		icon = GFX_PB_POL_favorable_terms_for_them
+		relative_position_id = PB_POL_only_within_the_empire
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_only_within_the_empire
+		}
+		prerequisite = {
+			focus = PB_POL_people_over_automats
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_keep_socialists_at_bay
+		icon = GFX_PB_POL_keep_socialists_at_bay
+		relative_position_id = PB_POL_people_over_automats
+		x = -1
+		y = 2
+		prerequisite = {
+			focus = PB_POL_people_over_automats
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_no_to_anarcho_liberals
+		icon = GFX_PB_POL_no_to_anarcho_liberals
+		relative_position_id = PB_POL_people_over_automats
+		x = 1
+		y = 2
+		prerequisite = {
+			focus = PB_POL_people_over_automats
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_what_constitutes_worker
+		icon = GFX_PB_POL_what_constitutes_worker
+		relative_position_id = PB_POL_keep_socialists_at_bay
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_keep_socialists_at_bay
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_look_to_palanga
+		icon = GFX_PB_POL_look_to_palanga
+		relative_position_id = PB_POL_keep_socialists_at_bay
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_keep_socialists_at_bay
+		}
+		prerequisite = {
+			focus = PB_POL_no_to_anarcho_liberals
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_what_constitutes_businessman
+		icon = GFX_PB_POL_what_constitutes_businessman
+		relative_position_id = PB_POL_no_to_anarcho_liberals
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_no_to_anarcho_liberals
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+}
