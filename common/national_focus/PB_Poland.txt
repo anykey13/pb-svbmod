@@ -169,4 +169,458 @@ focus_tree = {
 
 		}
 	}
+	focus = {
+		id = PB_POL_the_gdansk_we_can
+		icon = GFX_PB_POL_the_gdansk_we_can
+		relative_position_id = PB_POL_look_to_palanga
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_look_to_palanga
+		}
+		mutually_exclusive = {
+			focus = PB_POL_the_autonomy_we_cant
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_the_autonomy_we_cant
+		icon = GFX_PB_POL_the_autonomy_we_cant
+		relative_position_id = PB_POL_look_to_palanga
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_look_to_palanga
+		}
+		mutually_exclusive = {
+			focus = PB_POL_the_gdansk_we_can
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_uniquely_polish_marvel
+		icon = GFX_PB_POL_uniquely_polish_marvel
+		relative_position_id = PB_POL_the_gdansk_we_can
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_the_gdansk_we_can
+		}
+		mutually_exclusive = {
+			focus = PB_POL_brothers_help
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_brothers_help
+		icon = GFX_PB_POL_brothers_help
+		relative_position_id = PB_POL_the_gdansk_we_can
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_the_gdansk_we_can
+		}
+		mutually_exclusive = {
+			focus = PB_POL_uniquely_polish_marvel
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_settle_it_with_poles
+		icon = GFX_PB_POL_settle_it_with_poles
+		relative_position_id = PB_POL_uniquely_polish_marvel
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_uniquely_polish_marvel
+			focus = PB_POL_brothers_help
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_built_new_home
+		icon = GFX_PB_POL_built_new_home
+		relative_position_id = PB_POL_settle_it_with_poles
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_settle_it_with_poles
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_undisputable_claim
+		icon = GFX_PB_POL_undisputable_claim
+		relative_position_id = PB_POL_built_new_home
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_built_new_home
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_marrying_the_sea
+		icon = GFX_PB_POL_marrying_the_sea
+		relative_position_id = PB_POL_uniquely_polish_marvel
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_uniquely_polish_marvel
+			focus = PB_POL_brothers_help
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_two_inseparable_sisters
+		icon = GFX_PB_POL_two_inseparable_sisters
+		relative_position_id = PB_POL_marrying_the_sea
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_marrying_the_sea
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_palanga_import_export
+		icon = GFX_PB_POL_palanga_import_export
+		relative_position_id = PB_POL_two_inseparable_sisters
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_two_inseparable_sisters
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_small_breadbasket
+		icon = GFX_PB_POL_small_breadbasket
+		relative_position_id = PB_POL_uniquely_polish_marvel
+		x = 3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_uniquely_polish_marvel
+			focus = PB_POL_brothers_help
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_graintarky
+		icon = GFX_PB_POL_graintarky
+		relative_position_id = PB_POL_small_breadbasket
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_small_breadbasket
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_city_of_krak
+		icon = GFX_PB_POL_city_of_krak
+		relative_position_id = PB_POL_graintarky
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_graintarky
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_bears_dividends
+		icon = GFX_PB_POL_bears_dividends
+		relative_position_id = PB_POL_uniquely_polish_marvel
+		x = 5
+		y = 1
+		prerequisite = {
+			focus = PB_POL_uniquely_polish_marvel
+			focus = PB_POL_brothers_help
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_eagles_thanks
+		icon = GFX_PB_POL_eagles_thanks
+		relative_position_id = PB_POL_bears_dividends
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_bears_dividends
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_cooperation_for_prosperity
+		icon = GFX_PB_POL_cooperation_for_prosperity
+		relative_position_id = PB_POL_eagles_thanks
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_eagles_thanks
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_to_heartland_with_love
+		icon = GFX_PB_POL_to_heartland_with_love
+		relative_position_id = PB_POL_cooperation_for_prosperity
+		x = -3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_cooperation_for_prosperity
+		}
+		prerequisite = {
+			focus = PB_POL_undisputable_claim
+		}
+		prerequisite = {
+			focus = PB_POL_palanga_import_export
+		}
+		prerequisite = {
+			focus = PB_POL_city_of_krak
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_lodz_polish_liverpool
+		icon = GFX_PB_POL_lodz_polish_liverpool
+		relative_position_id = PB_POL_to_heartland_with_love
+		x = -3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_to_heartland_with_love
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_not_boat_but_ark
+		icon = GFX_PB_POL_not_boat_but_ark
+		relative_position_id = PB_POL_lodz_polish_liverpool
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_lodz_polish_liverpool
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_making_it_float
+		icon = GFX_PB_POL_making_it_float
+		relative_position_id = PB_POL_not_boat_but_ark
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_not_boat_but_ark
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_warsaw_polish_london
+		icon = GFX_PB_POL_warsaw_polish_london
+		relative_position_id = PB_POL_to_heartland_with_love
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_to_heartland_with_love
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_prepare_to_see_war
+		icon = GFX_PB_POL_prepare_to_see_war
+		relative_position_id = PB_POL_warsaw_polish_london
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_warsaw_polish_london
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_fortress_city
+		icon = GFX_PB_POL_fortress_city
+		relative_position_id = PB_POL_prepare_to_see_war
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_prepare_to_see_war
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_kielce_polish_newcastle
+		icon = GFX_PB_POL_kielce_polish_newcastle
+		relative_position_id = PB_POL_to_heartland_with_love
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_to_heartland_with_love
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_city_of_army_knives
+		icon = GFX_PB_POL_city_of_army_knives
+		relative_position_id = PB_POL_kielce_polish_newcastle
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_kielce_polish_newcastle
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_heart_of_heartland
+		icon = GFX_PB_POL_heart_of_heartland
+		relative_position_id = PB_POL_city_of_army_knives
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_city_of_army_knives
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_kalisz_polish_manchester
+		icon = GFX_PB_POL_kalisz_polish_manchester
+		relative_position_id = PB_POL_to_heartland_with_love
+		x = 3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_to_heartland_with_love
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_bright_lights_shining_city
+		icon = GFX_PB_POL_bright_lights_shining_city
+		relative_position_id = PB_POL_kalisz_polish_manchester
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_kalisz_polish_manchester
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_let_them_watch
+		icon = GFX_PB_POL_let_them_watch
+		relative_position_id = PB_POL_bright_lights_shining_city
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_bright_lights_shining_city
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_polish_megacity
+		icon = GFX_PB_POL_polish_megacity
+		relative_position_id = PB_POL_let_them_watch
+		x = -3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_let_them_watch
+		}
+		prerequisite = {
+			focus = PB_POL_making_it_float
+		}
+		prerequisite = {
+			focus = PB_POL_fortress_city
+		}
+		prerequisite = {
+			focus = PB_POL_heart_of_heartland
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
 }
