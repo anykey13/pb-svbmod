@@ -87,6 +87,26 @@ complete_national_focus = PB_POL_keep_socialists_at_bay
 complete_national_focus = PB_POL_look_to_palanga
 complete_national_focus = PB_POL_what_constitutes_businessman
 complete_national_focus = PB_POL_the_gdansk_we_can
+complete_national_focus = PB_POL_heir_to_wielopolski
+complete_national_focus = PB_POL_rule_of_pragmatism
+complete_national_focus = PB_POL_for_poles_by_poles
+complete_national_focus = PB_POL_piasts_values
+complete_national_focus = PB_POL_thoughts_of_modern_pole
+complete_national_focus = PB_POL_to_be_a_pole
+complete_national_focus = PB_POL_respect_to_the_orthodox
+complete_national_focus = PB_POL_anti_rev_aktion
+complete_national_focus = PB_POL_protect_what_we_have
+complete_national_focus = PB_POL_patience_set_you_free
+complete_national_focus = PB_POL_clash_of_concepts
+complete_national_focus = PB_POL_assure_russians
+complete_national_focus = PB_POL_never_another_november
+complete_national_focus = PB_POL_awaken_memories
+complete_national_focus = PB_POL_securing_legitimacy
+complete_national_focus = PB_POL_legalize_parties
+complete_national_focus = PB_POL_found_nd_party
+complete_national_focus = PB_POL_outsmarting_rebels
+complete_national_focus = PB_POL_divided_they_fall
+complete_national_focus = PB_POL_mandate_of_soil
 
 
 set_politics = {

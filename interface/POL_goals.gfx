@@ -161,4 +161,225 @@
 		name = "GFX_PB_POL_polish_megacity"
 		texturefile = "gfx/interface/goals/POL/PB_POL_polish_megacity.png"
 	}
+	SpriteType = {
+		name = "GFX_PB_POL_heir_to_wielopolski"
+		texturefile = "gfx/interface/goals/POL/PB_POL_heir_to_wielopolski.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_rule_of_pragmatism"
+		texturefile = "gfx/interface/goals/POL/PB_POL_rule_of_pragmatism.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_anti_rev_aktion"
+		texturefile = "gfx/interface/goals/POL/PB_POL_anti_rev_aktion.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_protect_what_we_have"
+		texturefile = "gfx/interface/goals/POL/PB_POL_protect_what_we_have.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_patience_set_you_free"
+		texturefile = "gfx/interface/goals/POL/PB_POL_patience_set_you_free.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_clash_of_concepts"
+		texturefile = "gfx/interface/goals/POL/PB_POL_clash_of_concepts.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_assure_russians"
+		texturefile = "gfx/interface/goals/POL/PB_POL_assure_russians.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_never_another_november"
+		texturefile = "gfx/interface/goals/POL/PB_POL_never_another_november.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_for_poles_by_poles"
+		texturefile = "gfx/interface/goals/POL/PB_POL_for_poles_by_poles.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_to_be_a_pole"
+		texturefile = "gfx/interface/goals/POL/PB_POL_to_be_a_pole.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_respect_to_the_orthodox"
+		texturefile = "gfx/interface/goals/POL/PB_POL_respect_to_the_orthodox.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_piasts_values"
+		texturefile = "gfx/interface/goals/POL/PB_POL_piasts_values.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_thoughts_of_modern_pole"
+		texturefile = "gfx/interface/goals/POL/PB_POL_thoughts_of_modern_pole.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_awaken_memories"
+		texturefile = "gfx/interface/goals/POL/PB_POL_awaken_memories.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_securing_legitimacy"
+		texturefile = "gfx/interface/goals/POL/PB_POL_securing_legitimacy.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_legalize_parties"
+		texturefile = "gfx/interface/goals/POL/PB_POL_legalize_parties.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_found_nd_party"
+		texturefile = "gfx/interface/goals/POL/PB_POL_found_nd_party.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_outsmarting_rebels"
+		texturefile = "gfx/interface/goals/POL/PB_POL_outsmarting_rebels.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_divided_they_fall"
+		texturefile = "gfx/interface/goals/POL/PB_POL_divided_they_fall.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_mandate_of_soil"
+		texturefile = "gfx/interface/goals/POL/PB_POL_mandate_of_soil.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_royal_visit"
+		texturefile = "gfx/interface/goals/POL/PB_POL_royal_visit.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_historys_blessing"
+		texturefile = "gfx/interface/goals/POL/PB_POL_historys_blessing.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_following_machiavelli"
+		texturefile = "gfx/interface/goals/POL/PB_POL_following_machiavelli.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_youll_thank_me_later"
+		texturefile = "gfx/interface/goals/POL/PB_POL_youll_thank_me_later.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_poland_i_make_eternal"
+		texturefile = "gfx/interface/goals/POL/PB_POL_poland_i_make_eternal.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_peoples_blessing"
+		texturefile = "gfx/interface/goals/POL/PB_POL_peoples_blessing.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_decouple_armies"
+		texturefile = "gfx/interface/goals/POL/PB_POL_decouple_armies.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_our_men_our_officers"
+		texturefile = "gfx/interface/goals/POL/PB_POL_our_men_our_officers.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_distinct_even_if_similar"
+		texturefile = "gfx/interface/goals/POL/PB_POL_distinct_even_if_similar.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_when_did_you_celebrate"
+		texturefile = "gfx/interface/goals/POL/PB_POL_when_did_you_celebrate.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_was_it_today"
+		texturefile = "gfx/interface/goals/POL/PB_POL_was_it_today.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_tsars_blessing"
+		texturefile = "gfx/interface/goals/POL/PB_POL_tsars_blessing.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_listen_to_appointees"
+		texturefile = "gfx/interface/goals/POL/PB_POL_listen_to_appointees.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_no_foreign_no_problem"
+		texturefile = "gfx/interface/goals/POL/PB_POL_no_foreign_no_problem.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_bound_by_fate"
+		texturefile = "gfx/interface/goals/POL/PB_POL_bound_by_fate.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_never_one_without_other"
+		texturefile = "gfx/interface/goals/POL/PB_POL_never_one_without_other.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_non_written_agreement"
+		texturefile = "gfx/interface/goals/POL/PB_POL_non_written_agreement.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_logics_favorite"
+		texturefile = "gfx/interface/goals/POL/PB_POL_logics_favorite.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_our_bargaining_chip"
+		texturefile = "gfx/interface/goals/POL/PB_POL_our_bargaining_chip.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_we_can_manage_ourselves"
+		texturefile = "gfx/interface/goals/POL/PB_POL_we_can_manage_ourselves.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_so_let_us"
+		texturefile = "gfx/interface/goals/POL/PB_POL_so_let_us.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_envoy_to_peters_city"
+		texturefile = "gfx/interface/goals/POL/PB_POL_envoy_to_peters_city.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_rebuttal"
+		texturefile = "gfx/interface/goals/POL/PB_POL_rebuttal.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_we_are_loyal"
+		texturefile = "gfx/interface/goals/POL/PB_POL_we_are_loyal.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_kingdoms_proclamation"
+		texturefile = "gfx/interface/goals/POL/PB_POL_kingdoms_proclamation.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_proof_of_success"
+		texturefile = "gfx/interface/goals/POL/PB_POL_proof_of_success.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_their_will"
+		texturefile = "gfx/interface/goals/POL/PB_POL_their_will.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_snap_back_to_reality"
+		texturefile = "gfx/interface/goals/POL/PB_POL_snap_back_to_reality.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_everything_to_prove_capabilities"
+		texturefile = "gfx/interface/goals/POL/PB_POL_everything_to_prove_capabilities.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_opportunity_in_the_air"
+		texturefile = "gfx/interface/goals/POL/PB_POL_opportunity_in_the_air.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_hope_for_the_future"
+		texturefile = "gfx/interface/goals/POL/PB_POL_hope_for_the_future.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_writing_a_manual"
+		texturefile = "gfx/interface/goals/POL/PB_POL_writing_a_manual.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_years_in_review"
+		texturefile = "gfx/interface/goals/POL/PB_POL_years_in_review.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_the_most_loyal_servant"
+		texturefile = "gfx/interface/goals/POL/PB_POL_the_most_loyal_servant.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_my_work_outlive_me"
+		texturefile = "gfx/interface/goals/POL/PB_POL_my_work_outlive_me.png"
+	}
+
 	}
