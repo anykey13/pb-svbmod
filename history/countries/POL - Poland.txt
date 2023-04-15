@@ -12,6 +12,7 @@ set_variable = { PB_main_culture = 63 }
 add_to_array = { PB_accepted_cultures = 63 }
 add_to_array = { PB_accepted_cultures = 60 }
 add_to_array = { PB_accepted_cultures = 64 }
+add_to_array = { PB_accepted_cultures = 444 }
 
 # Starting tech
 set_technology = { 
