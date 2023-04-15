@@ -8,6 +8,27 @@ PB_POL_Economic_Division:0 "An Economy Divided"
 PB_POL_Economic_Division_desc:0 ""
 PB_POL_puppet_kingdom:0 "The Puppet Kingdom"
 PB_POL_puppet_kingdom_desc:0 ""
+
+#country name - to jest fałsz, jak polska będzie niepodległą to damy kurwa cosmetic taga cn
+
+POL_ds:0 "Kingdom of Poland"
+POL_ds_DEF:0 "the Kingdom of Poland"
+POL_cn:0 "Kingdom of Poland"
+POL_cn_DEF:0 "the Kingdom of Poland"
+POL_rc:0 "Kingdom of Poland"
+POL_rc_DEF:0 "the Kingdom of Poland"
+POL_ni:0 "Kingdom of Poland"
+POL_ni_DEF:0 "the Kingdom of Poland"
+POL_lb:0 "Kingdom of Poland"
+POL_lb_DEF:0 "the Kingdom of Poland"
+POL_an:0 "Kingdom of Poland"
+POL_an_DEF:0 "the Kingdom of Poland"
+POL_ss:0 "Polish Commonwealth"
+POL_ss_DEF:0 "the Polish Commonwealth"
+POL_jc:0 "Polish People's Commonwealth"
+POL_jc_DEF:0 "the Polish People's Commonwealth"
+POL_RUS:0 "Autonomous Kingdom of Poland"
+POL_RUS_DEF:0 "the Autonomous Kingdom of Poland"
 #PARTIES
 
   POL_jc_party:0 "PPS/ZWC"
