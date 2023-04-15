@@ -127,8 +127,9 @@ PB_Setup_Cultures = {
 
 	### ---- East-Prussian Culture ---- ###
 
-	85 = { set_variable = { culture_id = 15 } }
 	5 = { set_variable = { culture_id = 15 } }
+	85 = { set_variable = { culture_id = 15 } }
+	188 = { set_variable = { culture_id = 15 } }
 	763 = { set_variable = { culture_id = 15 } }
 
 	### ---- Hanoverian Culture ---- ###
@@ -604,7 +605,6 @@ PB_Setup_Cultures = {
 
 	### ---- Russobaltic Culture ---- ###
     
-	188 = { set_variable = { culture_id = 77 } }
 	191 = { set_variable = { culture_id = 77 } }
 	784= { set_variable = { culture_id = 77 } }
 	949 = { set_variable = { culture_id = 77 } }
