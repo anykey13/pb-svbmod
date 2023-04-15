@@ -1890,6 +1890,16 @@ defined_text = {
         }
         localization_key = "PB_Culture_Freedman_tt"
     }
+	
+	### Submod Cultures
+	
+	text = { 
+        trigger = {
+            check_variable = { culture_id = 444 }
+        }
+        localization_key = "PB_Culture_Polish-German_tt"
+    }
+	
 }
 
 defined_text = { 
@@ -3775,6 +3785,15 @@ defined_text = {
             check_variable = { culture_id = 442 }
         }
         localization_key = "PB_Culture_American_tt_delayed"
+    }
+	
+	### Submod Cultures
+	
+	text = { 
+        trigger = {
+            check_variable = { culture_id = 444 }
+        }
+        localization_key = "PB_Culture_Polish-German_tt_delayed"
     }
 
 }

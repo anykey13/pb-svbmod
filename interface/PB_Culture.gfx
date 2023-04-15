@@ -1435,6 +1435,11 @@ spriteTypes = {
 		name = "GFX_PB_Culture_443"
 		texturefile = "gfx/interface/culture/North_American/PB_Culture_Freedman.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_PB_Culture_444"
+		texturefile = "gfx/interface/culture/North_American/PB_Culture_Polish-German.dds"
+	}
 
 
 }
