@@ -1438,7 +1438,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_PB_Culture_444"
-		texturefile = "gfx/interface/culture/North_American/PB_Culture_Polish-German.dds"
+		texturefile = "gfx/interface/culture/Germany/PB_Culture_Polish-German.dds"
 	}
 
 
