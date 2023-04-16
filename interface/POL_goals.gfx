@@ -1,6 +1,8 @@
-	SpriteType = {
+	SpriteTypes = {
+SpriteType = {
 		name = "GFX_PB_POL_empires_industrial_heart"
 		texturefile = "gfx/interface/goals/POL/PB_POL_empires_industrial_heart.png"
+	}
 	SpriteType = {
 		name = "GFX_PB_POL_people_over_automats"
 		texturefile = "gfx/interface/goals/POL/PB_POL_people_over_automats.png"
@@ -381,5 +383,105 @@
 		name = "GFX_PB_POL_my_work_outlive_me"
 		texturefile = "gfx/interface/goals/POL/PB_POL_my_work_outlive_me.png"
 	}
-
+	SpriteType = {
+		name = "GFX_PB_POL_great_army_reform"
+		texturefile = "gfx/interface/goals/POL/PB_POL_great_army_reform.png"
 	}
+	SpriteType = {
+		name = "GFX_PB_POL_coordination_with_allies"
+		texturefile = "gfx/interface/goals/POL/PB_POL_coordination_with_allies.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_adjustments_to_arms"
+		texturefile = "gfx/interface/goals/POL/PB_POL_adjustments_to_arms.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_doctrinal_crossroads"
+		texturefile = "gfx/interface/goals/POL/PB_POL_doctrinal_crossroads.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_deepen_coordination"
+		texturefile = "gfx/interface/goals/POL/PB_POL_deepen_coordination.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_maintain_degree_of_freedom"
+		texturefile = "gfx/interface/goals/POL/PB_POL_maintain_degree_of_freedom.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_never_alone"
+		texturefile = "gfx/interface/goals/POL/PB_POL_never_alone.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_joint_rus_pol_planning"
+		texturefile = "gfx/interface/goals/POL/PB_POL_joint_rus_pol_planning.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_infantry_useful_forever"
+		texturefile = "gfx/interface/goals/POL/PB_POL_infantry_useful_forever.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_better_rifles_efficiency"
+		texturefile = "gfx/interface/goals/POL/PB_POL_better_rifles_efficiency.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_abandon_sharpshooter"
+		texturefile = "gfx/interface/goals/POL/PB_POL_abandon_sharpshooter.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_our_own_landships"
+		texturefile = "gfx/interface/goals/POL/PB_POL_our_own_landships.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_promote_maczek"
+		texturefile = "gfx/interface/goals/POL/PB_POL_promote_maczek.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_polish_armored_div"
+		texturefile = "gfx/interface/goals/POL/PB_POL_polish_armored_div.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_less_moral_experiments"
+		texturefile = "gfx/interface/goals/POL/PB_POL_less_moral_experiments.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_unbound_loyalty"
+		texturefile = "gfx/interface/goals/POL/PB_POL_unbound_loyalty.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_price_of_victory"
+		texturefile = "gfx/interface/goals/POL/PB_POL_price_of_victory.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_newest_frontier"
+		texturefile = "gfx/interface/goals/POL/PB_POL_newest_frontier.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_help_from_sikorsky"
+		texturefile = "gfx/interface/goals/POL/PB_POL_help_from_sikorsky.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_rule_the_wind"
+		texturefile = "gfx/interface/goals/POL/PB_POL_rule_the_wind.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_holding_our_own"
+		texturefile = "gfx/interface/goals/POL/PB_POL_holding_our_own.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_self_sufficiency_in_tactics"
+		texturefile = "gfx/interface/goals/POL/PB_POL_self_sufficiency_in_tactics.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_authorize_indep_actions"
+		texturefile = "gfx/interface/goals/POL/PB_POL_authorize_indep_actions.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_not_command_suggestion"
+		texturefile = "gfx/interface/goals/POL/PB_POL_not_command_suggestion.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_first_to_fight"
+		texturefile = "gfx/interface/goals/POL/PB_POL_first_to_fight.png"
+	}
+}
+	

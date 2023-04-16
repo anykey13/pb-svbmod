@@ -1427,4 +1427,379 @@ focus_tree = {
 
 		}
 	}
+	focus = {
+		id = PB_POL_great_army_reform
+		icon = GFX_PB_POL_great_army_reform
+		
+		x = 32
+		y = 0
+
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_coordination_with_allies
+		icon = GFX_PB_POL_coordination_with_allies
+		relative_position_id = PB_POL_great_army_reform
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_great_army_reform
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_adjustments_to_arms
+		icon = GFX_PB_POL_adjustments_to_arms
+		relative_position_id = PB_POL_great_army_reform
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_great_army_reform
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_doctrinal_crossroads
+		icon = GFX_PB_POL_doctrinal_crossroads
+		relative_position_id = PB_POL_adjustments_to_arms
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_adjustments_to_arms
+		}
+		prerequisite = {
+			focus = PB_POL_coordination_with_allies
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_deepen_coordination
+		icon = GFX_PB_POL_deepen_coordination
+		relative_position_id = PB_POL_doctrinal_crossroads
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_doctrinal_crossroads
+		}
+		mutually_exclusive = {
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_maintain_degree_of_freedom
+		icon = GFX_PB_POL_maintain_degree_of_freedom
+		relative_position_id = PB_POL_deepen_coordination
+		x = -4
+		y = 1
+		prerequisite = {
+			focus = PB_POL_deepen_coordination
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_never_alone
+		icon = GFX_PB_POL_never_alone
+		relative_position_id = PB_POL_maintain_degree_of_freedom
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_maintain_degree_of_freedom
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_joint_rus_pol_planning
+		icon = GFX_PB_POL_joint_rus_pol_planning
+		relative_position_id = PB_POL_never_alone
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_never_alone
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_infantry_useful_forever
+		icon = GFX_PB_POL_infantry_useful_forever
+		relative_position_id = PB_POL_deepen_coordination
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_deepen_coordination
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_better_rifles_efficiency
+		icon = GFX_PB_POL_better_rifles_efficiency
+		relative_position_id = PB_POL_infantry_useful_forever
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_infantry_useful_forever
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_abandon_sharpshooter
+		icon = GFX_PB_POL_abandon_sharpshooter
+		relative_position_id = PB_POL_better_rifles_efficiency
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_better_rifles_efficiency
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_our_own_landships
+		icon = GFX_PB_POL_our_own_landships
+		relative_position_id = PB_POL_deepen_coordination
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_deepen_coordination
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_promote_maczek
+		icon = GFX_PB_POL_promote_maczek
+		relative_position_id = PB_POL_our_own_landships
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_our_own_landships
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_polish_armored_div
+		icon = GFX_PB_POL_polish_armored_div
+		relative_position_id = PB_POL_promote_maczek
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_promote_maczek
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_less_moral_experiments
+		icon = GFX_PB_POL_less_moral_experiments
+		relative_position_id = PB_POL_deepen_coordination
+		x = 2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_deepen_coordination
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_unbound_loyalty
+		icon = GFX_PB_POL_unbound_loyalty
+		relative_position_id = PB_POL_less_moral_experiments
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_less_moral_experiments
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_price_of_victory
+		icon = GFX_PB_POL_price_of_victory
+		relative_position_id = PB_POL_unbound_loyalty
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_unbound_loyalty
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_newest_frontier
+		icon = GFX_PB_POL_newest_frontier
+		relative_position_id = PB_POL_deepen_coordination
+		x = 4
+		y = 1
+		prerequisite = {
+			focus = PB_POL_deepen_coordination
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_help_from_sikorsky
+		icon = GFX_PB_POL_help_from_sikorsky
+		relative_position_id = PB_POL_newest_frontier
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_newest_frontier
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_rule_the_wind
+		icon = GFX_PB_POL_rule_the_wind
+		relative_position_id = PB_POL_help_from_sikorsky
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_help_from_sikorsky
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_holding_our_own
+		icon = GFX_PB_POL_holding_our_own
+		relative_position_id = PB_POL_doctrinal_crossroads
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_doctrinal_crossroads
+		}
+		mutually_exclusive = {
+			focus = PB_POL_deepen_coordination
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_self_sufficiency_in_tactics
+		icon = GFX_PB_POL_self_sufficiency_in_tactics
+		relative_position_id = PB_POL_holding_our_own
+		x = 4
+		y = 1
+		prerequisite = {
+			focus = PB_POL_holding_our_own
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_authorize_indep_actions
+		icon = GFX_PB_POL_authorize_indep_actions
+		relative_position_id = PB_POL_self_sufficiency_in_tactics
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_self_sufficiency_in_tactics
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_not_command_suggestion
+		icon = GFX_PB_POL_not_command_suggestion
+		relative_position_id = PB_POL_authorize_indep_actions
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_authorize_indep_actions
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_first_to_fight
+		icon = GFX_PB_POL_first_to_fight
+		relative_position_id = PB_POL_not_command_suggestion
+		x = -5
+		y = 1
+		prerequisite = {
+			focus = PB_POL_not_command_suggestion
+			focus = PB_POL_joint_rus_pol_planning
+		}
+		prerequisite = {
+			focus = PB_POL_abandon_sharpshooter
+		}
+		prerequisite = {
+			focus = PB_POL_polish_armored_div
+		}
+		prerequisite = {
+			focus = PB_POL_price_of_victory
+		}
+		prerequisite = {
+			focus = PB_POL_rule_the_wind
+		}
+
+		cost = 56
+		completion_reward = {
+
+		}
+	}
 }
