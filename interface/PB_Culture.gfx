@@ -1440,6 +1440,11 @@ spriteTypes = {
 		name = "GFX_PB_Culture_444"
 		texturefile = "gfx/interface/culture/Germany/PB_Culture_Polish-German.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_PB_Culture_445"
+		texturefile = "gfx/interface/culture/Russia/PB_Culture_Galician.dds"
+	}
 
 
 }

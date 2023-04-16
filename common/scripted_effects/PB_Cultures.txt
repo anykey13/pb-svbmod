@@ -420,8 +420,6 @@ PB_Setup_Cultures = {
 
 	### ---- Ukrainian Culture ---- ###
 
-	89 = { set_variable = { culture_id = 60 } }
-	91 = { set_variable = { culture_id = 60 } }
 	199 = { set_variable = { culture_id = 60 } }
 	198 = { set_variable = { culture_id = 60 } }
 	192 = { set_variable = { culture_id = 60 } }
@@ -1760,8 +1758,11 @@ PB_Setup_Cultures = {
 	### ---- German-Polish Culture ---- ###
 	
 	956 = { set_variable = { culture_id = 444 } }
-
 	
+	### ---- German-Polish Culture ---- ###
+	
+	89 = { set_variable = { culture_id = 445 } }
+	91 = { set_variable = { culture_id = 445 } }
 
 }
 

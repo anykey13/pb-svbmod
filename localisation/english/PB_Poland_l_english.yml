@@ -51,6 +51,8 @@ POL_RUS_DEF:0 "the Autonomous Kingdom of Poland"
 #MISC
 PB_Culture_Polish-German_tt:0 "Prussopolish"
 PB_Culture_Polish-German_tt_delayed:0 "Prussopolish is a result of Prussian attempts to Germanize Polish people living in Pomerania, while the process is long and tiresome, it seems to have produced some effects, as seen by the creation of this new syncretic culture, which is a combination of Polish and Prussian traditions."
+PB_Culture_Galician_tt:0 "Galician"
+PB_Culture_Galician_tt_delayed:0 ""
 
  #FOCUSES
 PB_POL_empires_industrial_heart:0 "The Empire's Old Industrial Heart"

@@ -1900,6 +1900,13 @@ defined_text = {
         localization_key = "PB_Culture_Polish-German_tt"
     }
 	
+	text = { 
+        trigger = {
+            check_variable = { culture_id = 445 }
+        }
+        localization_key = "PB_Culture_Galician_tt"
+    }
+	
 }
 
 defined_text = { 
@@ -3794,6 +3801,13 @@ defined_text = {
             check_variable = { culture_id = 444 }
         }
         localization_key = "PB_Culture_Polish-German_tt_delayed"
+    }
+	
+	text = { 
+        trigger = {
+            check_variable = { culture_id = 445 }
+        }
+        localization_key = "PB_Culture_Galician_tt_delayed"
     }
 
 }

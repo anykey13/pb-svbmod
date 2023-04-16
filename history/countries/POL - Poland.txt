@@ -10,9 +10,9 @@ set_country_flag = Megacorp_Tesla_Dominant
 
 set_variable = { PB_main_culture = 63 }
 add_to_array = { PB_accepted_cultures = 63 }
-add_to_array = { PB_accepted_cultures = 60 }
 add_to_array = { PB_accepted_cultures = 64 }
 add_to_array = { PB_accepted_cultures = 444 }
+add_to_array = { PB_accepted_cultures = 445 }
 
 # Starting tech
 set_technology = { 
