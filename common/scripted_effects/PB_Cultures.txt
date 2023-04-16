@@ -128,7 +128,7 @@ PB_Setup_Cultures = {
 	### ---- East-Prussian Culture ---- ###
 
 	5 = { set_variable = { culture_id = 15 } }
-	188 = { set_variable = { culture_id = 15 } }
+	85 = { set_variable = { culture_id = 15 } }
 	763 = { set_variable = { culture_id = 15 } }
 
 	### ---- Hanoverian Culture ---- ###
@@ -1749,6 +1749,8 @@ PB_Setup_Cultures = {
 	267 = { set_variable = { culture_id = 440 } }
 	
     ### ---- Baltic-German ---- ###
+	
+	188 = { set_variable = { culture_id = 441 } }
 
 	### ---- Freedman ---- ###
 
@@ -1757,9 +1759,9 @@ PB_Setup_Cultures = {
 	
 	### ---- German-Polish Culture ---- ###
 	
-	85 = { set_variable = { culture_id = 444 } }
+	956 = { set_variable = { culture_id = 444 } }
 
-	#not at game start - used for Memel and Suvalkija ingame - culture_id = 441 USED
+	
 
 }
 

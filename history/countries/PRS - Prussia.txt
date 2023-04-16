@@ -10,6 +10,7 @@ set_country_flag = Megacorp_Tesla_Dominant
 
 set_variable = { PB_main_culture = 15 }
 add_to_array = { PB_accepted_cultures = 15 }
+add_to_array = { PB_accepted_cultures = 441 }
 add_to_array = { PB_accepted_cultures = 444 }
 
 set_air_oob = "PRS_1933_air_legacy" ##Overwrite this with updated oob in version 3 update
