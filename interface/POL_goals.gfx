@@ -483,5 +483,173 @@ SpriteType = {
 		name = "GFX_PB_POL_first_to_fight"
 		texturefile = "gfx/interface/goals/POL/PB_POL_first_to_fight.png"
 	}
+	SpriteType = {
+		name = "GFX_PB_POL_against_vision_of_destruction"
+		texturefile = "gfx/interface/goals/POL/PB_POL_against_vision_of_destruction.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_recognize_threat"
+		texturefile = "gfx/interface/goals/POL/PB_POL_recognize_threat.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_dont_forfeit_bread"
+		texturefile = "gfx/interface/goals/POL/PB_POL_dont_forfeit_bread.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_use_your_brain"
+		texturefile = "gfx/interface/goals/POL/PB_POL_use_your_brain.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_cold_calc"
+		texturefile = "gfx/interface/goals/POL/PB_POL_cold_calc.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_gambit_worth_nothing"
+		texturefile = "gfx/interface/goals/POL/PB_POL_gambit_worth_nothing.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_extend_police_funding"
+		texturefile = "gfx/interface/goals/POL/PB_POL_extend_police_funding.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_enhanced_interrogation_tactics"
+		texturefile = "gfx/interface/goals/POL/PB_POL_enhanced_interrogation_tactics.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_sweep_military"
+		texturefile = "gfx/interface/goals/POL/PB_POL_sweep_military.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_emergency_measure"
+		texturefile = "gfx/interface/goals/POL/PB_POL_emergency_measure.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_sting_operations"
+		texturefile = "gfx/interface/goals/POL/PB_POL_sting_operations.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_victory_of_reason"
+		texturefile = "gfx/interface/goals/POL/PB_POL_victory_of_reason.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_extend_olive_branch"
+		texturefile = "gfx/interface/goals/POL/PB_POL_extend_olive_branch.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_electoral_question"
+		texturefile = "gfx/interface/goals/POL/PB_POL_electoral_question.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_erring_side_caution"
+		texturefile = "gfx/interface/goals/POL/PB_POL_erring_side_caution.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_allow_everyone"
+		texturefile = "gfx/interface/goals/POL/PB_POL_allow_everyone.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_expose_successes"
+		texturefile = "gfx/interface/goals/POL/PB_POL_expose_successes.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_all_we_do_is_win"
+		texturefile = "gfx/interface/goals/POL/PB_POL_all_we_do_is_win.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_plans_dividends"
+		texturefile = "gfx/interface/goals/POL/PB_POL_plans_dividends.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_request_lithuania"
+		texturefile = "gfx/interface/goals/POL/PB_POL_request_lithuania.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_the_oder_border"
+		texturefile = "gfx/interface/goals/POL/PB_POL_the_oder_border.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_poznan_rise_up"
+		texturefile = "gfx/interface/goals/POL/PB_POL_poznan_rise_up.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_prusso_polish_treaty"
+		texturefile = "gfx/interface/goals/POL/PB_POL_prusso_polish_treaty.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_take_our_men_back"
+		texturefile = "gfx/interface/goals/POL/PB_POL_take_our_men_back.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_germans_gtfo"
+		texturefile = "gfx/interface/goals/POL/PB_POL_germans_gtfo.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_maintain_momentum"
+		texturefile = "gfx/interface/goals/POL/PB_POL_maintain_momentum.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_from_the_ashes"
+		texturefile = "gfx/interface/goals/POL/PB_POL_from_the_ashes.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_wounds_healed"
+		texturefile = "gfx/interface/goals/POL/PB_POL_wounds_healed.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_polonia_restitvta"
+		texturefile = "gfx/interface/goals/POL/PB_POL_polonia_restitvta.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_look_into_moscow"
+		texturefile = "gfx/interface/goals/POL/PB_POL_look_into_moscow.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_our_reward"
+		texturefile = "gfx/interface/goals/POL/PB_POL_our_reward.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_death_of_dmowski"
+		texturefile = "gfx/interface/goals/POL/PB_POL_death_of_dmowski.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_elections_once_more"
+		texturefile = "gfx/interface/goals/POL/PB_POL_elections_once_more.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_young_poland"
+		texturefile = "gfx/interface/goals/POL/PB_POL_young_poland.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_attack_on_titans"
+		texturefile = "gfx/interface/goals/POL/PB_POL_attack_on_titans.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_promote_localists"
+		texturefile = "gfx/interface/goals/POL/PB_POL_promote_localists.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_old_poland"
+		texturefile = "gfx/interface/goals/POL/PB_POL_old_poland.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_conditions_of_today"
+		texturefile = "gfx/interface/goals/POL/PB_POL_conditions_of_today.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_build_national_state"
+		texturefile = "gfx/interface/goals/POL/PB_POL_build_national_state.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_reconcillatory_option"
+		texturefile = "gfx/interface/goals/POL/PB_POL_reconcillatory_option.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_above_divides"
+		texturefile = "gfx/interface/goals/POL/PB_POL_above_divides.png"
+	}
+	SpriteType = {
+		name = "GFX_PB_POL_recognize_lithuanians"
+		texturefile = "gfx/interface/goals/POL/PB_POL_recognize_lithuanians.png"
+	}
 }
 	

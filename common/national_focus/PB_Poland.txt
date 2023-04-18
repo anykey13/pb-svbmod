@@ -1802,4 +1802,606 @@ focus_tree = {
 
 		}
 	}
+	focus = {
+		id = PB_POL_against_vision_of_destruction
+		icon = GFX_PB_POL_against_vision_of_destruction
+	
+		x = 48
+		y = 0
+	
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_recognize_threat
+		icon = GFX_PB_POL_recognize_threat
+		relative_position_id = PB_POL_against_vision_of_destruction
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_against_vision_of_destruction
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_dont_forfeit_bread
+		icon = GFX_PB_POL_dont_forfeit_bread
+		relative_position_id = PB_POL_recognize_threat
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_recognize_threat
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_use_your_brain
+		icon = GFX_PB_POL_use_your_brain
+		relative_position_id = PB_POL_recognize_threat
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_recognize_threat
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_cold_calc
+		icon = GFX_PB_POL_cold_calc
+		relative_position_id = PB_POL_use_your_brain
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_use_your_brain
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_gambit_worth_nothing
+		icon = GFX_PB_POL_gambit_worth_nothing
+		relative_position_id = PB_POL_cold_calc
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_cold_calc
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_extend_police_funding
+		icon = GFX_PB_POL_extend_police_funding
+		relative_position_id = PB_POL_gambit_worth_nothing
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_gambit_worth_nothing
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_enhanced_interrogation_tactics
+		icon = GFX_PB_POL_enhanced_interrogation_tactics
+		relative_position_id = PB_POL_extend_police_funding
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_extend_police_funding
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_sweep_military
+		icon = GFX_PB_POL_sweep_military
+		relative_position_id = PB_POL_extend_police_funding
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_extend_police_funding
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_emergency_measure
+		icon = GFX_PB_POL_emergency_measure
+		relative_position_id = PB_POL_sweep_military
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_sweep_military
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_sting_operations
+		icon = GFX_PB_POL_sting_operations
+		relative_position_id = PB_POL_sweep_military
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_sweep_military
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_victory_of_reason
+		icon = GFX_PB_POL_victory_of_reason
+		relative_position_id = PB_POL_sting_operations
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_sting_operations
+		}
+		prerequisite = {
+			focus = PB_POL_all_we_do_is_win
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_extend_olive_branch
+		icon = GFX_PB_POL_extend_olive_branch
+		relative_position_id = PB_POL_use_your_brain
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = PB_POL_use_your_brain
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_electoral_question
+		icon = GFX_PB_POL_electoral_question
+		relative_position_id = PB_POL_extend_olive_branch
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_extend_olive_branch
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_erring_side_caution
+		icon = GFX_PB_POL_erring_side_caution
+		relative_position_id = PB_POL_electoral_question
+		x = 2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_electoral_question
+		}
+		mutually_exclusive = {
+			focus = PB_POL_allow_everyone
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_allow_everyone
+		icon = GFX_PB_POL_allow_everyone
+		relative_position_id = PB_POL_electoral_question
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_electoral_question
+		}
+		mutually_exclusive = {
+			focus = PB_POL_erring_side_caution
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_expose_successes
+		icon = GFX_PB_POL_expose_successes
+		relative_position_id = PB_POL_allow_everyone
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_allow_everyone
+			focus = PB_POL_erring_side_caution
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_all_we_do_is_win
+		icon = GFX_PB_POL_all_we_do_is_win
+		relative_position_id = PB_POL_expose_successes
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_expose_successes
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_plans_dividends
+		icon = GFX_PB_POL_plans_dividends
+		
+		x = 26
+		y = 7
+	
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_request_lithuania
+		icon = GFX_PB_POL_request_lithuania
+		relative_position_id = PB_POL_plans_dividends
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_plans_dividends
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_the_oder_border
+		icon = GFX_PB_POL_the_oder_border
+		relative_position_id = PB_POL_request_lithuania
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_request_lithuania
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_poznan_rise_up
+		icon = GFX_PB_POL_poznan_rise_up
+		relative_position_id = PB_POL_the_oder_border
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_the_oder_border
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_prusso_polish_treaty
+		icon = GFX_PB_POL_prusso_polish_treaty
+		relative_position_id = PB_POL_poznan_rise_up
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_poznan_rise_up
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_take_our_men_back
+		icon = GFX_PB_POL_take_our_men_back
+		relative_position_id = PB_POL_the_oder_border
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_the_oder_border
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_germans_gtfo
+		icon = GFX_PB_POL_germans_gtfo
+		relative_position_id = PB_POL_take_our_men_back
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_take_our_men_back
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_maintain_momentum
+		icon = GFX_PB_POL_maintain_momentum
+		relative_position_id = PB_POL_germans_gtfo
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_germans_gtfo
+		}
+		prerequisite = {
+			focus = PB_POL_prusso_polish_treaty
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_from_the_ashes
+		icon = GFX_PB_POL_from_the_ashes
+		relative_position_id = PB_POL_maintain_momentum
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_maintain_momentum
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_wounds_healed
+		icon = GFX_PB_POL_wounds_healed
+		relative_position_id = PB_POL_from_the_ashes
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_from_the_ashes
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_polonia_restitvta
+		icon = GFX_PB_POL_polonia_restitvta
+		relative_position_id = PB_POL_wounds_healed
+		x = 3
+		y = 1
+		prerequisite = {
+			focus = PB_POL_wounds_healed
+		}
+		prerequisite = {
+			focus = PB_POL_promote_localists
+			focus = PB_POL_build_national_state
+			focus = PB_POL_recognize_lithuanians
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_look_into_moscow
+		icon = GFX_PB_POL_look_into_moscow
+		relative_position_id = PB_POL_plans_dividends
+		x = 2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_plans_dividends
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_our_reward
+		icon = GFX_PB_POL_our_reward
+		relative_position_id = PB_POL_look_into_moscow
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_look_into_moscow
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_death_of_dmowski
+		icon = GFX_PB_POL_death_of_dmowski
+		relative_position_id = PB_POL_our_reward
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_our_reward
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_elections_once_more
+		icon = GFX_PB_POL_elections_once_more
+		relative_position_id = PB_POL_death_of_dmowski
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_death_of_dmowski
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_young_poland
+		icon = GFX_PB_POL_young_poland
+		relative_position_id = PB_POL_elections_once_more
+		x = -2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_elections_once_more
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_attack_on_titans
+		icon = GFX_PB_POL_attack_on_titans
+		relative_position_id = PB_POL_young_poland
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_young_poland
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_promote_localists
+		icon = GFX_PB_POL_promote_localists
+		relative_position_id = PB_POL_attack_on_titans
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_attack_on_titans
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_old_poland
+		icon = GFX_PB_POL_old_poland
+		relative_position_id = PB_POL_elections_once_more
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_elections_once_more
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_conditions_of_today
+		icon = GFX_PB_POL_conditions_of_today
+		relative_position_id = PB_POL_old_poland
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_old_poland
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_build_national_state
+		icon = GFX_PB_POL_build_national_state
+		relative_position_id = PB_POL_conditions_of_today
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_conditions_of_today
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_reconcillatory_option
+		icon = GFX_PB_POL_reconcillatory_option
+		relative_position_id = PB_POL_elections_once_more
+		x = 2
+		y = 1
+		prerequisite = {
+			focus = PB_POL_elections_once_more
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_above_divides
+		icon = GFX_PB_POL_above_divides
+		relative_position_id = PB_POL_reconcillatory_option
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_reconcillatory_option
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
+	focus = {
+		id = PB_POL_recognize_lithuanians
+		icon = GFX_PB_POL_recognize_lithuanians
+		relative_position_id = PB_POL_above_divides
+		x = 0
+		y = 1
+		prerequisite = {
+			focus = PB_POL_above_divides
+		}
+		cost = 56
+		completion_reward = {
+
+		}
+	}
 }
