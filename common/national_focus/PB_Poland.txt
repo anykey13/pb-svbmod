@@ -1626,7 +1626,7 @@ focus_tree = {
 		}
 		cost = 56
 		completion_reward = {
-
+			country_event = { id = pol.6 hours = 0 }
 		}
 	}
 	focus = {
